@@ -1,0 +1,65 @@
+#encabezado {
+    background-color: rgb(255, 255, 255);
+    color: rgb(4, 140, 173);
+    font-size: 20px;
+    padding: 20px;
+}
+
+#fondo {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(146, 245, 162);
+    color: rgb(4, 140, 173);
+    font-size: 20px;
+    padding: 20px;
+}
+
+#cuadro_principal {
+    display: flex;
+    flex-direction: column;
+    #menu1 {
+        background-color: green;
+        width: 50px;
+        padding: 10px;
+    }
+    #menu2 {
+        background-color: green;
+        width: 50px;
+        padding: 10px;
+    }
+    #menu3 {
+        background-color: green;
+        width: 50px;
+        padding: 10px;
+    }
+    #menu4 {
+        background-color: green;
+        width: 50px;
+        padding: 10px;
+    }
+}
+
+
+#cuadro_principal2 {
+    display: flex;
+    flex-direction: column;
+    #menu11 {
+        background-color: rgb(94, 235, 94);
+        width: 50px;
+        padding: 10px;
+    }
+}
+
+#cuadro_cuentas {
+    display: flex;
+    flex-direction: column;
+    
+    #cuentas {
+        background-color: rgb(255, 0, 0);
+        width: 100px;
+        padding: 10px;
+    }
+}
+
+
+
